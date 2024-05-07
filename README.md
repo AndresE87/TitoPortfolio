@@ -1,4 +1,3 @@
-<a name="readme-top"></a>
 
 # Modern Space Theme Portfolio using Next.js 14 and Three.js
 
